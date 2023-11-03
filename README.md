@@ -1,0 +1,1 @@
+# gestore_stade_provider
