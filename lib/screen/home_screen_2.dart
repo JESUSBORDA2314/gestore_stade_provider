@@ -38,6 +38,7 @@ class HomePage extends StatelessWidget {
               onPressed: () {
                 /*  context.read<TextProvider>().setTexts1(value1: "nuevo texto");
                 context.read<TextProvider>().setTexts2(value2: 'value2'); */
+                //context.read
               },
               child: Text('New text'))
         ],

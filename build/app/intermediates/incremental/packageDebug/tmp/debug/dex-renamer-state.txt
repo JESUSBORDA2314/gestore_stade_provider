@@ -1,4 +1,4 @@
-#Tue Nov 07 15:51:42 COT 2023
+#Wed Nov 08 10:32:05 COT 2023
 base.0=/home/jesus/Documentos/practica fluter/gestore_stade_provider/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
